@@ -1,0 +1,15 @@
+#root {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  /* color-scheme: light dark; */
+  color: #f8f8f8;
+  background-color: #0d0f10;
+}
+
+/* @media (prefers-color-scheme: dark) {
+  #root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+} */
