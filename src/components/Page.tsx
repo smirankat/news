@@ -2,7 +2,6 @@ import { Flex, Typography, Image } from "antd";
 import { news } from "../data";
 import styles from "./Page.module.css";
 import flag from "../assets/flag.png";
-// import globe from "../assets/globe.svg";
 import earth from "../assets/earth.svg";
 import book from "../assets/book.svg";
 import person from "../assets/person.svg";
