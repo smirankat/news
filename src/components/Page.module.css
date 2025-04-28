@@ -33,12 +33,13 @@ span {
 .highlights {
   color: #f8f8f8;
   margin-top: 20px;
+  line-height: 1.6;
 }
 .highlights span {
   color: #f8f8f8;
   border-radius: 5px;
   background: #0772cb;
-  padding: 2px 5px;
+  padding: 1px 5px;
 }
 
 .kw {
